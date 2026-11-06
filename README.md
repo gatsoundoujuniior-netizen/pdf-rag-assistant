@@ -1,4 +1,4 @@
-# 🤖 TP RAG & Agentic AI
+# 🤖 Assistant RAG pour documents PDF
 
 > Système **Retrieval Augmented Generation (RAG)** complet pour interroger n'importe quel document PDF en langage naturel.
 
@@ -105,8 +105,8 @@ Interface chat dark mode avec historique de conversation, sidebar informative et
 
 ```bash
 # Cloner le repo
-git clone https://github.com/gatsoundoujuniior-netizen/tp_RAG_et_agentic.git
-cd tp_RAG_et_agentic
+git clone https://github.com/gatsoundoujuniior-netizen/pdf-rag-assistant.git
+cd pdf-rag-assistant
 
 # Installer les dépendances
 uv sync
